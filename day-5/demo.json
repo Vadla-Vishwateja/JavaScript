@@ -1,0 +1,28 @@
+{
+  "student": [
+    {
+      "id": 18,
+      "name": "virat",
+      "marks": 93,
+      "age": 30
+    },
+    {
+      "id": 7,
+      "name": "Dhoni",
+      "marks": 100,
+      "age": 23
+    },
+    {
+      "id": 113,
+      "name": "Anu",
+      "marks": 92,
+      "age": 19
+    },
+    {
+      "id": 143,
+      "name": "abhi",
+      "marks": 94,
+      "age": 22
+    }
+  ]
+}
